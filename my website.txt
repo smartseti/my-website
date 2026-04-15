@@ -1,4 +1,0 @@
-index.html
-about.html
-style.css
-script.js
